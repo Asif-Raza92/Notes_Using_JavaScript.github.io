@@ -2,7 +2,7 @@
 
 Notes Application
 This is a simple web-based application that allows users to create, edit, and delete notes. The application uses localStorage to save notes so they persist even after the browser is refreshed.
-
+Disclaimer : This project is made with the help of Tutorial and I add some features and changed its User interface also take help of Ai to solve only error in projects.
 Features
 Create Notes: Add a new note by clicking the "Create Notes" button.
 Edit Notes: Click inside a note to edit its content.
